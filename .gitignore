@@ -1,0 +1,24 @@
+# Секреты и переменные окружения (критично!)
+.env
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Системные файлы macOS
+.DS_Store
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Тесты и кэш
+.pytest_cache/
+.coverage
+htmlcov/
