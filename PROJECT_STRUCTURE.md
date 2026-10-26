@@ -79,58 +79,58 @@ stable-CRM/
 ## 📋 Чек-лист для ручного создания
 
 ### 1. Корень проекта
-- [ ] `.env`
-- [ ] `.env.example`
-- [ ] `.gitignore`
-- [ ] `Dockerfile`
-- [ ] `docker-compose.yml`
-- [ ] `requirements.txt`
+- [x] `.env`
+- [x] `.env.example`
+- [x] `.gitignore`
+- [x] `Dockerfile`
+- [x] `docker-compose.yml`
+- [x] `requirements.txt`
 
 ### 2. Пакет `app/`
-- [ ] `app/__init__.py`
-- [ ] `app/main.py`
-- [ ] `app/config.py`
-- [ ] `app/database.py`
+- [x] `app/__init__.py`
+- [x] `app/main.py`
+- [x] `app/config.py`
+- [x] `app/database.py`
 
 ### 3. Пакет `app/core/`
-- [ ] `app/core/__init__.py`
-- [ ] `app/core/security.py`
+- [x] `app/core/__init__.py`
+- [x] `app/core/security.py`
 
 ### 4. Пакет `app/models/`
-- [ ] `app/models/__init__.py`
-- [ ] `app/models/user.py`
-- [ ] `app/models/horse.py`
-- [ ] `app/models/service.py`
-- [ ] `app/models/booking.py`
+- [x] `app/models/__init__.py`
+- [x] `app/models/user.py`
+- [x] `app/models/horse.py`
+- [x] `app/models/service.py`
+- [x] `app/models/booking.py`
 
 ### 5. Пакет `app/schemas/`
-- [ ] `app/schemas/__init__.py`
-- [ ] `app/schemas/user.py`
-- [ ] `app/schemas/horse.py`
-- [ ] `app/schemas/service.py`
-- [ ] `app/schemas/booking.py`
+- [x] `app/schemas/__init__.py`
+- [x] `app/schemas/user.py`
+- [x] `app/schemas/horse.py`
+- [x] `app/schemas/service.py`
+- [x] `app/schemas/booking.py`
 
 ### 6. Пакет `app/crud/`
-- [ ] `app/crud/__init__.py`
-- [ ] `app/crud/crud_user.py`
-- [ ] `app/crud/crud_horse.py`
-- [ ] `app/crud/crud_service.py`
-- [ ] `app/crud/crud_booking.py`
+- [x] `app/crud/__init__.py`
+- [x] `app/crud/crud_user.py`
+- [x] `app/crud/crud_horse.py`
+- [x] `app/crud/crud_service.py`
+- [x] `app/crud/crud_booking.py`
 
 ### 7. Пакет `app/api/`
-- [ ] `app/api/__init__.py`
-- [ ] `app/api/deps.py`
-- [ ] `app/api/v1/__init__.py`
-- [ ] `app/api/v1/api.py`
-- [ ] `app/api/v1/endpoints/__init__.py`
-- [ ] `app/api/v1/endpoints/auth.py`
-- [ ] `app/api/v1/endpoints/users.py`
-- [ ] `app/api/v1/endpoints/horses.py`
-- [ ] `app/api/v1/endpoints/services.py`
-- [ ] `app/api/v1/endpoints/bookings.py`
+- [x] `app/api/__init__.py`
+- [x] `app/api/deps.py`
+- [x] `app/api/v1/__init__.py`
+- [x] `app/api/v1/api.py`
+- [x] `app/api/v1/endpoints/__init__.py`
+- [x] `app/api/v1/endpoints/auth.py`
+- [x] `app/api/v1/endpoints/users.py`
+- [x] `app/api/v1/endpoints/horses.py`
+- [x] `app/api/v1/endpoints/services.py`
+- [x] `app/api/v1/endpoints/bookings.py`
 
 ### 8. Пакет `tests/`
-- [ ] `tests/__init__.py`
-- [ ] `tests/conftest.py`
-- [ ] `tests/test_users.py`
-- [ ] `tests/test_limits.py`
+- [x] `tests/__init__.py`
+- [x] `tests/conftest.py`
+- [x] `tests/test_users.py`
+- [x] `tests/test_limits.py`
